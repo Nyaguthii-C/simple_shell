@@ -1,12 +1,12 @@
 #include "shell.h"
 
 /**
-* main - prints simple shell  
-* 
+* main - prints simple shell
+*
 * Return: Always 0
 *
 */
-int main (void)
+int main(void)
 {
 	char *buf = NULL;
 	size_t size = 10;
